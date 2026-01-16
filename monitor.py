@@ -6,7 +6,8 @@ import time
 # Ayarlar (GitHub Secrets'tan gelecek)
 BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
-RSS_URL = "https://onehack.us/latest.rss"
+# GÜNCELLEME: Alan adı .st olarak değiştirildi
+RSS_URL = "https://onehack.st/latest.rss"
 HISTORY_FILE = "history.txt"
 
 def send_telegram_message(text):
@@ -30,6 +31,7 @@ def load_history():
     if not os.path.exists(HISTORY_FILE):
         return []
     try:
+        # UTF-8 desteği eklendi
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             return [line.strip() for line in f.readlines()]
     except Exception as e:
@@ -49,8 +51,7 @@ def save_history(links):
 def main():
     print("OneHack Monitor Başlatılıyor...")
     
-    # --- KRİTİK DEĞİŞİKLİK: User-Agent Eklemesi ---
-    # OneHack gibi siteler botları engelleyebilir. Bu başlık tarayıcı taklidi yapar.
+    # User-Agent Eklemesi (Bot korumasını aşmak için)
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
@@ -79,11 +80,10 @@ def main():
         link = entry.link
         title = entry.title
         
-        # Eğer bu link daha önce gönderilmediyse
+        # Link kontrolü
         if link not in sent_links:
             print(f"Yeni içerik bulundu: {title}")
             
-            # HTML formatında mesaj (Güvenlik için title karakterlerini kaçırabiliriz ama şimdilik gerek yok)
             message = f"🚨 <b>Yeni OneHack Konusu!</b>\n\n📌 <b>{title}</b>\n\n🔗 <a href='{link}'>Konuya Gitmek İçin Tıkla</a>"
             
             send_telegram_message(message)
@@ -91,6 +91,7 @@ def main():
             sent_links.append(link)
             new_links_found.append(link)
             
+            # Flood koruması için bekleme
             time.sleep(1)
     
     if new_links_found:
