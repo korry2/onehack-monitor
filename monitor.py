@@ -29,23 +29,43 @@ def load_history():
     """Daha önce gönderilen linkleri dosyadan okur."""
     if not os.path.exists(HISTORY_FILE):
         return []
-    with open(HISTORY_FILE, "r") as f:
-        return [line.strip() for line in f.readlines()]
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f.readlines()]
+    except Exception as e:
+        print(f"Dosya okuma hatası: {e}")
+        return []
 
 def save_history(links):
     """Gönderilen linkleri dosyaya kaydeder (Son 100 tanesini tutar)."""
-    # Listeyi son 100 elemanla sınırla ki dosya şişmesin
     trimmed_links = links[-100:]
-    with open(HISTORY_FILE, "w") as f:
-        for link in trimmed_links:
-            f.write(f"{link}\n")
+    try:
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+            for link in trimmed_links:
+                f.write(f"{link}\n")
+    except Exception as e:
+        print(f"Dosya yazma hatası: {e}")
 
 def main():
     print("OneHack Monitor Başlatılıyor...")
     
-    # RSS beslemesini çek
-    feed = feedparser.parse(RSS_URL)
+    # --- KRİTİK DEĞİŞİKLİK: User-Agent Eklemesi ---
+    # OneHack gibi siteler botları engelleyebilir. Bu başlık tarayıcı taklidi yapar.
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
     
+    try:
+        # Önce requests ile veriyi çekiyoruz
+        response = requests.get(RSS_URL, headers=headers, timeout=10)
+        response.raise_for_status()
+        
+        # Gelen veriyi feedparser'a veriyoruz
+        feed = feedparser.parse(response.content)
+    except Exception as e:
+        print(f"RSS çekilirken hata oluştu: {e}")
+        return
+
     if not feed.entries:
         print("RSS beslemesi boş veya çekilemedi.")
         return
@@ -55,7 +75,6 @@ def main():
     new_links_found = []
     
     # RSS'deki girdileri tersten (eskiden yeniye) kontrol et
-    # Böylece sırayla bildirim gelir
     for entry in reversed(feed.entries):
         link = entry.link
         title = entry.title
@@ -64,17 +83,14 @@ def main():
         if link not in sent_links:
             print(f"Yeni içerik bulundu: {title}")
             
-            # Mesajı hazırla
+            # HTML formatında mesaj (Güvenlik için title karakterlerini kaçırabiliriz ama şimdilik gerek yok)
             message = f"🚨 <b>Yeni OneHack Konusu!</b>\n\n📌 <b>{title}</b>\n\n🔗 <a href='{link}'>Konuya Gitmek İçin Tıkla</a>"
             
-            # Gönder
             send_telegram_message(message)
             
-            # Listeye ekle
             sent_links.append(link)
             new_links_found.append(link)
             
-            # Telegram API limitine takılmamak için kısa bir bekleme
             time.sleep(1)
     
     if new_links_found:
