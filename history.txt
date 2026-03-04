@@ -1,7 +1,3 @@
-https://onehack.st/t/free-python-library-that-caches-retries-deduplicates-api-calls-for-you/318793
-https://onehack.st/t/ladybird-browser-dumps-c-for-rust-ai-ported-25-000-lines-in-2-weeks/318799
-https://onehack.st/t/microvisions-200-lidar-bought-luminars-corpse-for-33m-now-what/318800
-https://onehack.st/t/hetzner-jacks-prices-38-on-april-1-your-5-vps-era-is-officially-dead/318802
 https://onehack.st/t/0-a-d-drops-the-alpha-label-after-23-years-and-adds-germanic-barbarians/318803
 https://onehack.st/t/europes-first-mushroom-packaging-factory-is-replacing-styrofoam-with-fungus/318804
 https://onehack.st/t/remote-jobs-in-india-asia/318812
@@ -98,3 +94,7 @@ https://onehack.st/t/apples-m5-pro-welds-two-chiplets-together-with-3-cpu-core-t
 https://onehack.st/t/nasas-4-1b-moon-rocket-broke-a-seal-and-missed-march-april-fools-is-the-new-launch-date/319208
 https://onehack.st/t/accenture-pays-1-2b-for-speedtest-ziff-davis-bought-it-for-15m/319213
 https://onehack.st/t/used-evs-under-15k-are-everywhere-now-heres-whats-actually-worth-buying/319216
+https://onehack.st/t/digital-detective-starter-kit-osint-from-zero-to-recon/319225
+https://onehack.st/t/free-amazon-prime-video-access-cookie-drop-no-account-needed/319228
+https://onehack.st/t/bin-drop-disney-premium-mercado-pago-gateway-confirmed/319231
+https://onehack.st/t/watch-the-world-live-planes-ships-satellites-wildfires-right-now/319233
