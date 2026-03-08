@@ -1,4 +1,3 @@
-https://onehack.st/t/piper-tts-help/319024
 https://onehack.st/t/one-command-to-uncensored-ai-27b-parameters-your-hardware/319029
 https://onehack.st/t/200-month-0-how-ollama-turned-claude-code-into-a-free-tool/319031
 https://onehack.st/t/make-your-android-tv-feel-like-apple-tv-free-no-root-2-minutes/319032
@@ -98,3 +97,4 @@ https://onehack.st/t/apple-kills-the-512gb-mac-studio-ai-ate-all-the-ram/319393
 https://onehack.st/t/amd-turin-destroys-44-cloud-vms-hetzner-costs-80-less-than-aws/319394
 https://onehack.st/t/one-dev-built-a-language-where-your-gpu-is-just-a-background-thread/319395
 https://onehack.st/t/alibabas-swe-ci-benchmark-made-18-ai-models-maintain-real-codebases-75-broke-something/319396
+https://onehack.st/t/free-100gb-onedrive-new-account/319402
