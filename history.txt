@@ -1,5 +1,3 @@
-https://onehack.st/t/amd-drops-50-tops-npu-into-desktop-pcs-but-you-cant-buy-one/319268
-https://onehack.st/t/smalltalks-40-year-old-ide-still-destroys-vscode-at-one-thing/319269
 https://onehack.st/t/google-drops-a-workspace-cli-that-builds-itself-from-100-apis-at-runtime/319270
 https://onehack.st/t/supergrok-3-day-trial/319276
 https://onehack.st/t/activate-windows-office-in-30-seconds-one-command-free-forever/319279
@@ -98,3 +96,5 @@ https://onehack.st/t/every-erase-costs-your-drive-a-piece-of-its-life-so-it-simp
 https://onehack.st/t/honda-kills-3-evs-before-launch-eats-a-15-8b-loss-and-admits-china-wins/319612
 https://onehack.st/t/london-witness-caught-using-smart-glasses-for-live-court-coaching/319613
 https://onehack.st/t/google-chrome-took-6-years-to-ship-an-arm64-linux-build-raspberry-pi-users-are-livid/319614
+https://onehack.st/t/telegram-playbook-zero-to-daily-income-on-a-platform-with-no-algorithm/319615
+https://onehack.st/t/stop-asking-what-site-do-i-use-for-x-this-post-has-all-of-them/319616
