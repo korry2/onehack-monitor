@@ -1,4 +1,3 @@
-https://onehack.st/t/google-drops-a-workspace-cli-that-builds-itself-from-100-apis-at-runtime/319270
 https://onehack.st/t/supergrok-3-day-trial/319276
 https://onehack.st/t/activate-windows-office-in-30-seconds-one-command-free-forever/319279
 https://onehack.st/t/block-ads-on-every-device-iphone-smart-tv-ps5-no-apps-needed/319283
@@ -98,3 +97,4 @@ https://onehack.st/t/london-witness-caught-using-smart-glasses-for-live-court-co
 https://onehack.st/t/google-chrome-took-6-years-to-ship-an-arm64-linux-build-raspberry-pi-users-are-livid/319614
 https://onehack.st/t/telegram-playbook-zero-to-daily-income-on-a-platform-with-no-algorithm/319615
 https://onehack.st/t/stop-asking-what-site-do-i-use-for-x-this-post-has-all-of-them/319616
+https://onehack.st/t/rdp-recommend/319622
