@@ -1,5 +1,3 @@
-https://onehack.st/t/wall-streets-30k-bloomberg-terminal-got-cloned-in-one-afternoon-finance-bros-are-losing-it/319830
-https://onehack.st/t/arizona-hits-kalshi-with-20-criminal-charges-calls-their-11b-prediction-market-a-casino/319831
 https://onehack.st/t/ohio-farmers-got-1-800-signatures-in-8-days-to-ban-data-centers-from-their-state-constitution/319832
 https://onehack.st/t/new-google-ai-pro-method-2026/319838
 https://onehack.st/t/fresh-windows-install-this-tool-sets-up-everything-automatically/319840
@@ -98,3 +96,5 @@ https://onehack.st/t/blind-man-sends-512-page-fax-to-social-security-bureaucrat-
 https://onehack.st/t/jsongrep-smokes-jq-on-a-190mb-file-rust-dfa-engine-does-o-1-per-node/320287
 https://onehack.st/t/90-amateur-cameras-are-tracking-every-fireball-in-europes-sky-you-can-build-one-for-150/320288
 https://onehack.st/t/openais-stargate-eats-40-of-global-ram-your-next-pc-will-cost-4x-more/320289
+https://onehack.st/t/aidralabs-certfication/320306
+https://onehack.st/t/how-to-land-a-software-developer-job/320307
