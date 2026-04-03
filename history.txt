@@ -1,7 +1,3 @@
-https://onehack.st/t/californias-based-act-targets-1t-tech-giants-y-combinator-and-cory-doctorow-back-it/320021
-https://onehack.st/t/elon-built-a-20b-chip-factory-to-feed-his-own-empire/320022
-https://onehack.st/t/chatcut-is-invite-only-here-are-5-codes-that-skip-the-waitlist/320029
-https://onehack.st/t/is-there-a-way-to-use-telegram-when-my-phone-number-is-banned/320030
 https://onehack.st/t/recession-proof-your-life-10-backup-income-systems-that-work-from-anywhere/320034
 https://onehack.st/t/three-bin-ranges-one-mexican-address-disney-premium-4k-for-0/320037
 https://onehack.st/t/scribds-trial-only-validates-the-card-two-visa-bins-no-vpn-30-days-free/320039
@@ -98,3 +94,7 @@ https://onehack.st/t/8-snowpack-in-rio-grande-scientists-call-it-shocking/320606
 https://onehack.st/t/openai-spent-10m-on-a-fake-grassroots-coalition-and-nobody-knew-until-last-week/320607
 https://onehack.st/t/ai-can-clone-any-open-source-project-in-90-seconds-and-gpl-cant-stop-it/320608
 https://onehack.st/t/sweden-spent-137m-to-undo-its-own-digital-classroom-experiment/320609
+https://onehack.st/t/your-mac-has-a-secret-ai-built-in-apple-hid-it-behind-siri/320632
+https://onehack.st/t/samsungs-disk-utility-ships-150-pngs-of-a-spinning-circle-and-takes-18-steps-to-uninstall/320633
+https://onehack.st/t/google-dropped-4-open-ai-models-under-apache-2-0-one-runs-on-a-raspberry-pi/320634
+https://onehack.st/t/espressifs-4-chip-just-got-wi-fi-6-gigabit-ethernet-and-62-gpios/320636
