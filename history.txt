@@ -1,9 +1,3 @@
-https://onehack.st/t/a-challenge-journey-to-motivate-myself-and-you-all/320275
-https://onehack.st/t/best-websites-without-viruses-or-ads-to-watch-anime-2026/320276
-https://onehack.st/t/free-chess-trainer-that-drills-the-skills-chess-com-wont-touch/320279
-https://onehack.st/t/apple-killed-the-7-000-mac-pro-the-cheese-grater-era-is-dead-forever/320285
-https://onehack.st/t/blind-man-sends-512-page-fax-to-social-security-bureaucrat-runs-out-of-toner-in-1-hour/320286
-https://onehack.st/t/jsongrep-smokes-jq-on-a-190mb-file-rust-dfa-engine-does-o-1-per-node/320287
 https://onehack.st/t/90-amateur-cameras-are-tracking-every-fireball-in-europes-sky-you-can-build-one-for-150/320288
 https://onehack.st/t/openais-stargate-eats-40-of-global-ram-your-next-pc-will-cost-4x-more/320289
 https://onehack.st/t/aidralabs-certfication/320306
@@ -98,3 +92,9 @@ https://onehack.st/t/russia-tried-to-block-telegram-accidentally-crashed-its-ent
 https://onehack.st/t/anthropics-claude-code-leaked-512-000-lines-including-a-stealth-mode-for-open-source/320833
 https://onehack.st/t/the-internet-bug-bounty-just-froze-payouts-ai-found-too-many-bugs/320835
 https://onehack.st/t/fortunes-top-writer-cranked-out-600-ai-stories-now-20-of-its-traffic-is-slop/320836
+https://onehack.st/t/support-looking-for-an-less-censored-ai/320842
+https://onehack.st/t/need-guidance-on-taking-over-website-development-security-project/320845
+https://onehack.st/t/looking-for-alternatives-to-predatorsense/320847
+https://onehack.st/t/does-anyone-have-free-ap-calculus-bc-past-papers-for-free-especially-mcqs-for-the-ones-in-the-past-10-years/320848
+https://onehack.st/t/seedpool-invite-giveaway-help-5-people-get-into-a-0-day-scene-tracker/320849
+https://onehack.st/t/built-my-own-ai-humanizer-tool-after-facing-issues-need-advice-on-scaling-launching/320851
