@@ -1,5 +1,3 @@
-https://onehack.st/t/bell-labs-spent-7b-year-and-won-11-nobels-heres-the-exact-formula-they-used/320372
-https://onehack.st/t/oregon-treated-5-935-people-with-magic-mushrooms-in-2025-fda-approval-could-come-by-2027/320373
 https://onehack.st/t/a-jury-just-called-instagram-a-digital-casino-meta-owes-381m-and-2-000-lawsuits-are-next/320403
 https://onehack.st/t/60-of-open-source-devs-work-for-free-now-one-guy-wants-big-tech-to-pay-up/320404
 https://onehack.st/t/rivian-threatened-a-ballot-measure-car-dealers-folded-in-3-months/320405
@@ -98,3 +96,5 @@ https://onehack.st/t/youtube-traffic-analyse/320913
 https://onehack.st/t/anthropic-built-an-ai-that-found-27-year-old-zero-days-then-refused-to-release-it/320915
 https://onehack.st/t/fancy-bear-hijacked-18-000-home-routers-in-120-countries-your-tp-link-might-be-one/320916
 https://onehack.st/t/planet-labs-ran-ai-on-a-satellite-500km-up-it-spotted-planes-in-seconds/320917
+https://onehack.st/t/the-supreme-court-just-killed-the-47m-piracy-verdict-against-your-isp/320919
+https://onehack.st/t/chrome-finally-stole-vertical-tabs-from-edge-6-years-late-and-right-click-away/320920
