@@ -1,4 +1,3 @@
-https://onehack.st/t/anthropic-forgot-one-config-line-now-everyone-has-their-2-5b-source-code/320543
 https://onehack.st/t/tim-draper-funded-a-startup-that-wants-to-grow-your-backup-body-without-a-brain/320548
 https://onehack.st/t/supergrok-for-a-full-year-0-charged-through-a-stripe-bug/320549
 https://onehack.st/t/starlink-satellite-34343-blew-up-in-orbit-its-the-second-one-in-3-months/320552
@@ -98,3 +97,4 @@ https://onehack.st/t/cpuid-got-hacked-while-its-developer-was-on-vacation-6-hour
 https://onehack.st/t/github-copilot-pro-anyone-know-the-teacher-verification-method/321050
 https://onehack.st/t/stop-carrying-20-cards-this-free-app-replaces-your-wallet/321052
 https://onehack.st/t/best-ias-2026/321053
+https://onehack.st/t/ufc-327-prochazka-vs-ulberg/215947
