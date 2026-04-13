@@ -1,12 +1,3 @@
-https://onehack.st/t/why-game-companies-cant-block-hypervisor-cheats-theyd-break-windows-doing-it/320593
-https://onehack.st/t/hey-everyone-would-love-your-feedback/320596
-https://onehack.st/t/spacex-filed-for-a-1-75-trillion-ipo-the-biggest-stock-listing-in-human-history/320605
-https://onehack.st/t/8-snowpack-in-rio-grande-scientists-call-it-shocking/320606
-https://onehack.st/t/openai-spent-10m-on-a-fake-grassroots-coalition-and-nobody-knew-until-last-week/320607
-https://onehack.st/t/ai-can-clone-any-open-source-project-in-90-seconds-and-gpl-cant-stop-it/320608
-https://onehack.st/t/sweden-spent-137m-to-undo-its-own-digital-classroom-experiment/320609
-https://onehack.st/t/your-mac-has-a-secret-ai-built-in-apple-hid-it-behind-siri/320632
-https://onehack.st/t/samsungs-disk-utility-ships-150-pngs-of-a-spinning-circle-and-takes-18-steps-to-uninstall/320633
 https://onehack.st/t/google-dropped-4-open-ai-models-under-apache-2-0-one-runs-on-a-raspberry-pi/320634
 https://onehack.st/t/espressifs-4-chip-just-got-wi-fi-6-gigabit-ethernet-and-62-gpios/320636
 https://onehack.st/t/libreoffices-board-ejected-30-core-devs-who-wrote-70-of-the-code/320639
@@ -98,3 +89,12 @@ https://onehack.st/t/an-ai-that-went-broke-running-a-vending-machine-just-signed
 https://onehack.st/t/cz-wrote-a-memoir-in-prison-now-hes-worth-110b-and-got-a-trump-pardon/321068
 https://onehack.st/t/blue-origin-turned-moon-dust-into-breathable-oxygen-and-5-other-raw-materials/321069
 https://onehack.st/t/amazon-luna-just-deleted-your-purchased-games-no-refunds-no-apology/321070
+https://onehack.st/t/free-residential-proxies-10gb-bonus-inside-an-antidetect-browser/321091
+https://onehack.st/t/steal-any-sites-design-dna-feed-it-to-your-ai/321092
+https://onehack.st/t/ai-for-summary/321093
+https://onehack.st/t/anthropic-invited-15-priests-to-decide-if-claude-has-a-soul/321094
+https://onehack.st/t/high-schoolers-built-150-robot-birds-now-theyre-catfishing-real-grouse-in-a-national-park/321095
+https://onehack.st/t/rust-hit-13-in-january-fell-to-16-by-april-is-the-crab-cooked/321097
+https://onehack.st/t/stop-feeding-your-ai-the-whole-codebase-give-it-the-map-instead/321101
+https://onehack.st/t/glarysoft-just-left-29-95-on-the-table-grab-it-before-april-30/321102
+https://onehack.st/t/qualcomms-snapdragon-x2-just-beat-apples-m5-and-ran-windows-for-29-hours-straight/321105
