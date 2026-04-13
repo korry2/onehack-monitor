@@ -1,4 +1,3 @@
-https://onehack.st/t/google-dropped-4-open-ai-models-under-apache-2-0-one-runs-on-a-raspberry-pi/320634
 https://onehack.st/t/espressifs-4-chip-just-got-wi-fi-6-gigabit-ethernet-and-62-gpios/320636
 https://onehack.st/t/libreoffices-board-ejected-30-core-devs-who-wrote-70-of-the-code/320639
 https://onehack.st/t/my-journey-week-1-every-project-every-struggle-every-screenshot/320644
@@ -98,3 +97,4 @@ https://onehack.st/t/rust-hit-13-in-january-fell-to-16-by-april-is-the-crab-cook
 https://onehack.st/t/stop-feeding-your-ai-the-whole-codebase-give-it-the-map-instead/321101
 https://onehack.st/t/glarysoft-just-left-29-95-on-the-table-grab-it-before-april-30/321102
 https://onehack.st/t/qualcomms-snapdragon-x2-just-beat-apples-m5-and-ran-windows-for-29-hours-straight/321105
+https://onehack.st/t/6-free-ai-cheat-codes-the-upgrade-trick-that-unlocks-600x-more/321061
