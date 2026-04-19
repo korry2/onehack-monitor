@@ -1,5 +1,3 @@
-https://onehack.st/t/anthropic-built-an-ai-that-found-27-year-old-zero-days-then-refused-to-release-it/320915
-https://onehack.st/t/fancy-bear-hijacked-18-000-home-routers-in-120-countries-your-tp-link-might-be-one/320916
 https://onehack.st/t/planet-labs-ran-ai-on-a-satellite-500km-up-it-spotted-planes-in-seconds/320917
 https://onehack.st/t/the-supreme-court-just-killed-the-47m-piracy-verdict-against-your-isp/320919
 https://onehack.st/t/chrome-finally-stole-vertical-tabs-from-edge-6-years-late-and-right-click-away/320920
@@ -98,3 +96,5 @@ https://onehack.st/t/wine-11-just-made-linux-678-faster-at-windows-games-with-on
 https://onehack.st/t/your-wrecked-car-still-knows-where-you-live-and-nobodys-erasing-the-data/321315
 https://onehack.st/t/the-faa-just-made-a-fortnite-ad-to-recruit-air-traffic-controllers-for-155k/321316
 https://onehack.st/t/your-dead-car-just-snitched-gps-logs-from-factory-to-junkyard-were-never-deleted/321317
+https://onehack.st/t/an-ai-got-fired-from-a-vending-machine-so-it-opened-a-real-store-with-100k/321318
+https://onehack.st/t/jeff-bezos-just-made-breathable-air-from-moon-dirt-using-a-35m-microwave/321319
