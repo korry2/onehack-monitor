@@ -1,6 +1,3 @@
-https://onehack.st/t/chrome-finally-stole-vertical-tabs-from-edge-6-years-late-and-right-click-away/320920
-https://onehack.st/t/john-deere-wrote-a-99m-check-farmers-can-finally-fix-their-own-tractors/320938
-https://onehack.st/t/iran-just-made-20-of-global-oil-pay-1-barrel-in-bitcoin-or-stay-home/320939
 https://onehack.st/t/this-ceo-spent-500k-on-a-survivor-retreat-and-got-e-coli-on-day-one/320940
 https://onehack.st/t/amazon-just-bricked-13-kindle-models-your-2007-e-reader-is-now-a-paperweight/320942
 https://onehack.st/t/iran-hacked-your-water-plant-the-fbi-found-out-14-months-later/320943
@@ -98,3 +95,6 @@ https://onehack.st/t/an-ai-got-fired-from-a-vending-machine-so-it-opened-a-real-
 https://onehack.st/t/jeff-bezos-just-made-breathable-air-from-moon-dirt-using-a-35m-microwave/321319
 https://onehack.st/t/north-korean-deepfakes-hacked-100-million-downloads-in-3-hours-via-a-fake-teams-call/321350
 https://onehack.st/t/your-boss-knows-you-took-a-payday-loan-and-lowered-your-offer-by-12k/321352
+https://onehack.st/t/ai-found-so-many-bugs-that-hackerone-froze-1-5m-in-bounty-payouts/321355
+https://onehack.st/t/googles-31b-ai-model-just-beat-400b-rivals-and-you-can-run-it-on-a-laptop-for-free/321356
+https://onehack.st/t/cpu-z-got-hijacked-for-6-hours-and-installed-a-spy-on-every-pc-that-downloaded-it/321357
