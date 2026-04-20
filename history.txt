@@ -1,5 +1,3 @@
-https://onehack.st/t/this-ceo-spent-500k-on-a-survivor-retreat-and-got-e-coli-on-day-one/320940
-https://onehack.st/t/amazon-just-bricked-13-kindle-models-your-2007-e-reader-is-now-a-paperweight/320942
 https://onehack.st/t/iran-hacked-your-water-plant-the-fbi-found-out-14-months-later/320943
 https://onehack.st/t/srz-updates/303241
 https://onehack.st/t/one-script-infinite-positions-desktop-chess-trainer-that-gets-harder-as-you-improve/320956
@@ -98,3 +96,5 @@ https://onehack.st/t/your-boss-knows-you-took-a-payday-loan-and-lowered-your-off
 https://onehack.st/t/ai-found-so-many-bugs-that-hackerone-froze-1-5m-in-bounty-payouts/321355
 https://onehack.st/t/googles-31b-ai-model-just-beat-400b-rivals-and-you-can-run-it-on-a-laptop-for-free/321356
 https://onehack.st/t/cpu-z-got-hijacked-for-6-hours-and-installed-a-spy-on-every-pc-that-downloaded-it/321357
+https://onehack.st/t/best-light-llm-for-advanced-hacking-with-agentic-capabilities/321375
+https://onehack.st/t/i-built-a-free-windows-app-to-catalog-my-movie-hoard-sharing-it/321377
