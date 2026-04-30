@@ -1,6 +1,3 @@
-https://onehack.st/t/the-cia-found-a-pilots-heartbeat-from-40-miles-away-using-a-diamond/321294
-https://onehack.st/t/a-4-person-mit-team-built-a-code-editor-its-now-worth-50-billion/321295
-https://onehack.st/t/dead-startups-are-selling-your-slack-dms-to-ai-labs-for-100k-a-pop/321297
 https://onehack.st/t/scientists-found-vowels-in-sperm-whale-clicks-8-719-recordings-prove-they-talk-like-us/321298
 https://onehack.st/t/amazons-secret-buy-box-weapon-controls-82-of-sales-unsealed-docs-show-how/321299
 https://onehack.st/t/this-ai-clones-any-open-source-project-in-90-seconds-gpl-cant-stop-it/321300
@@ -98,3 +95,6 @@ https://onehack.st/t/chatgpt-is-tracking-you-with-4-encrypted-tokens-every-time-
 https://onehack.st/t/scientists-found-the-exact-frequency-that-makes-your-basement-feel-haunted-its-18-hz/321617
 https://onehack.st/t/your-office-ac-is-literally-haunting-you-and-scientists-just-proved-it/321618
 https://onehack.st/t/dose-anyone-know-know-how-to-convert-netflix-cookies-to-nft-url/321627
+https://onehack.st/t/high-school-kids-built-150-robot-birds-to-catfish-real-birds-into-mating/321636
+https://onehack.st/t/a-palantir-spy-tech-engineer-is-running-for-congress-and-openai-spent-125m-to-stop-him/321637
+https://onehack.st/t/bytedance-burned-24-billion-on-ai-servers-and-their-profit-dropped-70/321638
