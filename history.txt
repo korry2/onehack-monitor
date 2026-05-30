@@ -1,4 +1,3 @@
-https://onehack.st/t/meta-was-eavesdropping-on-13-million-womens-period-apps-a-jury-just-said-thats-worth-190-billion/322126
 https://onehack.st/t/google-ignores-your-do-not-track-click-87-of-the-time-an-audit-just-proved-it/322133
 https://onehack.st/t/linux-just-hit-version-7-0-rust-is-now-official-and-linus-ran-out-of-fingers-to-count/322134
 https://onehack.st/t/australia-banned-teens-from-social-media-60-still-have-access-5-months-later/322135
@@ -98,3 +97,4 @@ https://onehack.st/t/ai-found-so-many-bugs-that-hackerone-cut-payouts-by-75-and-
 https://onehack.st/t/your-dead-car-remembers-every-place-youve-ever-been-and-nobody-wipes-it/322493
 https://onehack.st/t/amazon-killed-sideloading-on-every-future-fire-tv-stick-vega-os-locks-the-door-forever/322495
 https://onehack.st/t/the-faa-just-offered-gamers-155k-to-play-air-traffic-controller-12-000-applied-in-24-hours/322496
+https://onehack.st/t/the-ai-margin-business-build-your-own-ai-resell-agency-before-its-crowded-only-7-spots-available/322497
