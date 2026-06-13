@@ -1,6 +1,3 @@
-https://onehack.st/t/spacex-just-filed-the-biggest-ipo-in-history-at-1-75-trillion-with-4-9b-in-losses/322487
-https://onehack.st/t/a-small-town-just-cut-off-water-to-a-1-2-billion-nuclear-weapons-data-center/322490
-https://onehack.st/t/ai-found-so-many-bugs-that-hackerone-cut-payouts-by-75-and-paused-the-whole-program/322491
 https://onehack.st/t/your-dead-car-remembers-every-place-youve-ever-been-and-nobody-wipes-it/322493
 https://onehack.st/t/amazon-killed-sideloading-on-every-future-fire-tv-stick-vega-os-locks-the-door-forever/322495
 https://onehack.st/t/the-faa-just-offered-gamers-155k-to-play-air-traffic-controller-12-000-applied-in-24-hours/322496
@@ -98,3 +95,6 @@ https://onehack.st/t/amazon-forced-levis-to-raise-walmart-prices-to-29-99-unseal
 https://onehack.st/t/hackers-hijacked-obamas-instagram-by-politely-asking-metas-ai-chatbot/322988
 https://onehack.st/t/wine-11-made-a-dead-laptop-run-a-game-at-860-fps-up-from-110/322989
 https://onehack.st/t/that-ghost-in-old-houses-its-a-19hz-sound-you-cant-hear-your-eyeballs-just-feel-it/322990
+https://onehack.st/t/rip-videos-and-scrape-comments-from-90-sites-free/322999
+https://onehack.st/t/make-your-home-server-rock-solid-for-40-full-configs/323000
+https://onehack.st/t/one-address-free-ai-from-many-providers-auto-failover/323003
