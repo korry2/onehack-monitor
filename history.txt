@@ -1,6 +1,3 @@
-https://onehack.st/t/iran-set-up-a-bitcoin-toll-booth-in-the-strait-of-hormuz-1-per-barrel-pay-in-seconds/322841
-https://onehack.st/t/eu-just-committed-2-billion-to-replace-microsoft-with-open-source-by-2030/322842
-https://onehack.st/t/california-wants-your-3d-printer-to-snitch-on-you-eff-says-its-technically-impossible/322843
 https://onehack.st/t/student-looking-for-small-income-ideas/322852
 https://onehack.st/t/the-cia-found-a-pilot-40-miles-away-by-listening-to-his-heartbeat-through-a-diamond/322864
 https://onehack.st/t/linux-7-0-just-dropped-rust-is-now-a-first-class-citizen-in-the-kernel/322865
@@ -98,3 +95,6 @@ https://onehack.st/t/china-osint-dorks-find-records-google-hides/323336
 https://onehack.st/t/proton-unlimited-free-with-a-bin/323348
 https://onehack.st/t/brodcast-kills-your-20-min-what-to-watch-spiral/323349
 https://onehack.st/t/the-whole-free-streaming-stack-cancel-every-sub/323354
+https://onehack.st/t/scroll-github-like-a-feed-stop-hunting-repos/323371
+https://onehack.st/t/the-whole-free-desktop-organizer-toolkit-for-windows-one-massive-drop/323373
+https://onehack.st/t/vmix-pro-for-church-streaming-looking-for-affordable-options/323374
