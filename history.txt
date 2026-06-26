@@ -1,4 +1,3 @@
-https://onehack.st/t/student-looking-for-small-income-ideas/322852
 https://onehack.st/t/the-cia-found-a-pilot-40-miles-away-by-listening-to-his-heartbeat-through-a-diamond/322864
 https://onehack.st/t/linux-7-0-just-dropped-rust-is-now-a-first-class-citizen-in-the-kernel/322865
 https://onehack.st/t/russias-fancy-bear-hacked-18-000-home-routers-to-steal-your-outlook-password/322866
@@ -98,3 +97,4 @@ https://onehack.st/t/the-whole-free-streaming-stack-cancel-every-sub/323354
 https://onehack.st/t/scroll-github-like-a-feed-stop-hunting-repos/323371
 https://onehack.st/t/the-whole-free-desktop-organizer-toolkit-for-windows-one-massive-drop/323373
 https://onehack.st/t/vmix-pro-for-church-streaming-looking-for-affordable-options/323374
+https://onehack.st/t/mimo-is-xiaomis-free-ai-goldmine/323381
